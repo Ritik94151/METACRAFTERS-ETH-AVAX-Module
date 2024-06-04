@@ -29,6 +29,6 @@ Make sure you have Solidity ^0.8.17 installed.
 Compile and deploy the ErrorHandling contract to a supported Ethereum network.
 Interact with the deployed contract by calling the available functions and providing the required parameters.
 Video Walkthrough
-https://www.loom.com/share/b67a3b5ff93146d59acd7421651cb8b2?sid=125cf0c9-4fe4-4418-8d6a-c1d06917b235
+https://www.loom.com/share/68795158bc6f42758f2eb36e6816546f?sid=1c03211c-1a7c-437d-8c56-668971263756
 
 Feel free to explore and modify the contract according to your needs!
