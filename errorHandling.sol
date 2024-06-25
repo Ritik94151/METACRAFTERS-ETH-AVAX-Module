@@ -6,7 +6,7 @@ contract ErrorHandling {
     // uint public num = 0;
     uint b=5;
 
-    function testAssert(uint num) public pure{
+    function test(uint num) public pure{
         assert(num!=0);
     }
 
